@@ -14,7 +14,7 @@
 
 ```bash
 cd backend
-./mvnw spring-boot:run
+mvnw spring-boot:run
 ```
 
 ### Frontend
