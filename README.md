@@ -10,14 +10,14 @@
 
 ## Cài đặt
 
-### Backend.
+### Backend
 
 ```bash
 cd backend
 mvnw spring-boot:run
 ````
 
-### Frontend.
+### Frontend
 
 ```bash
 cd frontend
